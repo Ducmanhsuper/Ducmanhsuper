@@ -3,7 +3,7 @@
 ### Hi there 👋
  + ❤️ Là cựu học sinh Trường THPT Huỳnh Thúc Kháng. 
  + ❤️ Tôi có niềm đam mê lập trình, và muốn trở thành một lập trình viên giỏi, có thể giải quyết được vấn đề mà xã hội đang cần ❤️
- + ❤️ Mon muốn trở thành một lập trình viên, một chuyên viên bảo mật và lập trình fullstack giỏi.
+ + ❤️ Mong muốn trở thành một lập trình viên, một chuyên viên bảo mật và lập trình fullstack giỏi.
  + ❤️ Hiện có các dự án như Band, Shoppe, Infomation Link sẽ cập nhật sau  
 
  
